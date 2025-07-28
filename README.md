@@ -9,7 +9,7 @@ Simple web app that uses the Crossref API to fetch and display publications on P
 - Pagination with configurable page sizes
 - Group results by year, type, or author
 - Generate citations in MLA, Chicago, and APA formats
-- ORCID integration for author profiles
+- ORCID integration for author profiles (not working wonderfully)
 - Responsive design with Bootstrap
 
 ## Getting Started
