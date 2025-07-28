@@ -22,7 +22,7 @@ Simple web app that uses the Crossref API to fetch and display publications on P
 
 - Bootstrap 5.3
 - Font Awesome 6.4
-- CrossRef API
+- Crossref API
 
 ## License
 
