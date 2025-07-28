@@ -1,2 +1,2 @@
 # crossref-predynastic
-Web app that uses the crossref API to fetch and display publications on Predynastic Egyptian Archaeology 
+Web app that uses the Crossref API to fetch and display publications on Predynastic Egyptian Archaeology 
