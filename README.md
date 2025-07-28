@@ -1,15 +1,16 @@
 # Predynastic Egypt Research Explorer
 
-Web app that uses the Crossref API to fetch and display publications on Predynastic Egyptian Archaeology 
+Simple web app that uses the Crossref API to fetch and display publications on Predynastic Egyptian Archaeology 
 
 ## Features
 
-- Search publications about Predynastic Egypt
+- Display publications about Predynastic Egypt using the Crossref API
+- Search through displayed items
 - Filter by authors, years, and publication types
 - Pagination with configurable page sizes
 - Group results by year, type, or author
-- Generate citations in MLA, Chicago, and APA formats
-- ORCID integration for author profiles
+- Generate citations in MLA, Chicago, and APA formats (issues with how its parsing the data from the Crossref API - need to work on) 
+- ORCID integration for author profiles (not working wonderfully)
 - Responsive design with Bootstrap
 
 ## Getting Started
@@ -22,7 +23,7 @@ Web app that uses the Crossref API to fetch and display publications on Predynas
 
 - Bootstrap 5.3
 - Font Awesome 6.4
-- CrossRef API
+- Crossref API
 
 ## License
 
