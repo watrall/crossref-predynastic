@@ -4,7 +4,8 @@ Simple web app that uses the Crossref API to fetch and display publications on P
 
 ## Features
 
-- Search publications about Predynastic Egypt using the Crossref API
+- Display publications about Predynastic Egypt using the Crossref API
+- Search through displayed items
 - Filter by authors, years, and publication types
 - Pagination with configurable page sizes
 - Group results by year, type, or author
