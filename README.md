@@ -23,6 +23,7 @@ To view the demo, hop on over to https://watrall.github.io/crossref-predynastic/
 1. Clone the repository
 2. Open `index.html` in a web browser
 3. The application will automatically load sample data
+4. Bam!  Awesomeness
 
 ## Dependencies
 
