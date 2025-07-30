@@ -2,7 +2,7 @@
 
 Simple web app that uses the Crossref API to fetch and display publications on Predynastic Egyptian Archaeology 
 
-Also using this as a test bed for Google Jules - specifically how good is it at code review and bug fixes...and how much hand in teh loop is present in the process.  
+Also using this as a test bed for Google Jules - specifically how good is it at code review and bug fixes...and how much hand in the loop is present in the process.  
 
 To view the demo, hop on over to https://watrall.github.io/crossref-predynastic/
 
