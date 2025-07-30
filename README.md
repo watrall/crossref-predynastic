@@ -27,7 +27,7 @@ To view the demo, hop on over to https://watrall.github.io/crossref-predynastic/
 ## Dependencies
 
 - Bootstrap 5.3
--~~- Font Awesome 6.4~~ (future builds will use Lucide icons https://lucide.dev/icons/)
+- ~~- Font Awesome 6.4~~ (future builds will use Lucide icons https://lucide.dev/icons/)
 - Crossref API
 
 ## License
