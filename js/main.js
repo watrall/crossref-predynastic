@@ -871,8 +871,8 @@ function escapeHtml(text) {
     if (!text) return '';
     return text.toString()
         .replace(/&/g, '&amp;')
-        .replace(/</g, '<')
-        .replace(/>/g, '>')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#039;');
 }
